@@ -51,6 +51,8 @@ Stellar Pay creates a seamless bridge between mobile money platforms and blockch
 - Full regulatory compliance framework
 - Advanced transaction monitoring
 
+## Demo Video
+
 ## Technical Framework
 
 ### Frontend Architecture
